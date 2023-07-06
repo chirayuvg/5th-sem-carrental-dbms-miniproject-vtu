@@ -8,13 +8,19 @@ https://www.apachefriends.org/
 
 To run the provided Flask application, you'll need to install the following modules:
 
-Flask: The main web framework for building the application. It can be installed using the command:
+Flask: The main web framework for building the application. 
+It can be installed using the command:
+
 pip install flask
 
-Flask-MySQLdb: A Flask extension for connecting to a MySQL database. Install it with:
+Flask-MySQLdb: A Flask extension for connecting to a MySQL database. 
+Install it with:
+
 pip install flask-mysqldb
 
-MySQL Connector/Python: A MySQL driver for Python, required for connecting to a MySQL database. Install it using:
+MySQL Connector/Python: A MySQL driver for Python, required for connecting to a MySQL database. 
+Install it using:
+
 pip install mysql-connector-python
 
 Ensure that you have a compatible version of Python installed before installing these modules.
