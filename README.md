@@ -3,7 +3,7 @@ During our engineering coursework, we completed a project involving the creation
 
 To get started we need to first install XAMPP server and related modules for the python-flask
 
-To install XAMPP server for the LINUX/WINDOWS/MAC
+To install XAMPP server for the LINUX/WINDOWS/MAC visit
 https://www.apachefriends.org/
 
 To run the provided Flask application, you'll need to install the following modules:
