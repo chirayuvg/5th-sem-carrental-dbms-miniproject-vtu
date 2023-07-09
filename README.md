@@ -27,3 +27,7 @@ Ensure that you have a compatible version of Python installed before installing 
 
 I have also attached snapshots of pdf format of how to run the XAMPP and run the main.py in command promopt you can also run it on VS code.
 
+Contributors
+CHIRAYU V GANGADKAR,
+DHANUSH C
+
