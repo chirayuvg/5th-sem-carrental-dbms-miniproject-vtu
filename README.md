@@ -1,4 +1,4 @@
-# 5th-sem-car-rental-dbms-mini-project-vtu[MySQL and Python-FLASK]
+# car-rental-web-application [MySQL and Python-FLASK]
 During our engineering coursework, we completed a project involving the creation of a car-rental website. This mini-project includes various features such as an admin and user login page, as well as a sign-up page. For a comprehensive understanding of the website and its implementation, please refer to the attached report, which includes detailed information and snapshots of the final result.
 
 To get started we need to first install XAMPP server and related modules for the python-flask
